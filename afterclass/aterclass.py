@@ -1,1 +1,5 @@
-print
+print("i wake up at 5")
+print("i brush and change")
+print("i get on the bus")
+print("i go to school")
+print("i get bored")
