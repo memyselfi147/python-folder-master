@@ -1,0 +1,23 @@
+13:23:12 Script started.
+13:23:12 DEBUG foreground=windowsterminal.exe window=(55,64,1554,834) monitor=(0,0,1920,1200) fullscreen=False
+13:23:17 DEBUG foreground=chrome.exe window=(1912,-257,4488,1151) monitor=(1920,-249,4480,1191) fullscreen=False
+13:23:22 DEBUG foreground=windowsterminal.exe window=(-1024,110,175,726) monitor=(-2560,-249,0,1191) fullscreen=False
+13:23:27 DEBUG foreground=notepad.exe window=(256,256,1696,1086) monitor=(0,0,1920,1200) fullscreen=False
+13:23:32 DEBUG foreground=chrome.exe window=(1912,-257,4488,1151) monitor=(1920,-249,4480,1191) fullscreen=False
+13:23:52 DEBUG foreground=notepad.exe window=(-1507,224,-355,888) monitor=(-2560,-249,0,1191) fullscreen=False
+13:24:12 DEBUG foreground=notepad.exe window=(316,161,1756,991) monitor=(0,0,1920,1200) fullscreen=False
+13:24:22 DEBUG foreground=chrome.exe window=(1912,-257,4488,1151) monitor=(1920,-249,4480,1191) fullscreen=False
+13:25:12 DEBUG foreground=windowsterminal.exe window=(-1024,110,175,726) monitor=(-2560,-249,0,1191) fullscreen=False
+13:25:17 DEBUG foreground=windowsterminal.exe window=(-1203,-64,-4,552) monitor=(-2560,-249,0,1191) fullscreen=False
+13:25:22 DEBUG foreground=plariumplay.exe window=(-9,-9,1929,1149) monitor=(0,0,1920,1200) fullscreen=False
+13:25:37 DEBUG foreground=mecharena.exe window=(0,0,1920,1200) monitor=(0,0,1920,1200) fullscreen=True
+13:25:37 Game detected.
+13:25:37 Voice listener error: Failed to create a model
+13:25:39 Waiting for OBS: Request GetReplayBufferStatus returned code 207. With message: OBS is not ready to perform the request.
+13:25:41 Replay buffer started.
+13:37:16 DEBUG foreground=plariumplay.exe window=(-9,-9,1929,1149) monitor=(0,0,1920,1200) fullscreen=False
+13:37:16 Game closed.
+13:37:34 OBS closed.
+13:37:39 DEBUG foreground=explorer.exe window=(-2560,-249,4480,1200) monitor=(0,0,1920,1200) fullscreen=True
+13:37:44 DEBUG foreground=plariumplay.exe window=(-9,-9,1929,1149) monitor=(0,0,1920,1200) fullscreen=False
+13:38:54 DEBUG foreground=chrome.exe window=(1912,-257,4488,1151) monitor=(1920,-249,4480,1191) fullscreen=False
